@@ -15,6 +15,8 @@ public class Main {
 
 
         //robimy MIGO - MIGO zrobiony lokalnie
+        
+        //zmiany Kasi domergowane do releasa
 
 
     }
