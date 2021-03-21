@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        //poczatek projektu
+        //poczatek projektu zrobiony na masterze
 
 
     }
