@@ -8,6 +8,8 @@ public class Main {
 
         //robimy releasa_20190329 - release zrobiony lokalnie
 
+        //robimy MIGO - MIGO zrobiony lokalnie
+
 
     }
 
