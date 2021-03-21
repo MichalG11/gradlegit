@@ -25,7 +25,7 @@ public class Main {
         //MIGO robie sobie jakies zmiany xx
 
         //         nowe zmiany Andrzeja
-        
+
         //         nowe zmiany Staszka
 
         //          robie nowe zmiany MIGO
