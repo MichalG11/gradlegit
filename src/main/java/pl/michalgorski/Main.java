@@ -19,6 +19,8 @@ public class Main {
         //zmiany Kasi domergowane do releasa
 
         //MIGO robie zmiany lokalne po domergowaniu Kasi
+        
+        //zmiany Marty domergowane do releasa
 
 
     }
