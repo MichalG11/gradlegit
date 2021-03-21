@@ -8,6 +8,10 @@ public class Main {
 
         //robimy releasa_20190329 - release zrobiony lokalnie
 
+
+
+        //zmiany Marcina domergowane do releasa
+
         //robimy MIGO - MIGO zrobiony lokalnie
 
 
