@@ -23,6 +23,8 @@ public class Main {
         //zmiany Marty domergowane do releasa
 
         //MIGO robie sobie jakies zmiany xx
+        
+        //              nowe zmiany Andrzeja
 
 
     }
